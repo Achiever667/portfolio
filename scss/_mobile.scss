@@ -18,7 +18,8 @@
     align-items: center;
     text-align: center;
 
-    .lg-heading {
+    &.lg-heading {
+      font-size: 40px;
       line-height: 1;
       margin-bottom: 1rem;
     }
